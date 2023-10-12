@@ -32,6 +32,9 @@ export default function Auth() {
           </div>
         </div>
         <div className="w-[90%] ml-auto mr-auto bg-black h-[2px]"></div>
+        <div className='mt-[30px] flex  font-light ml-auto mr-auto'>
+           <img src='./google.png' className=' className="text-sm rounded-full h-14 w-14 font-light ml-auto mr-auto'/>
+        </div>
       </div>
     </div>
   );
